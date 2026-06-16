@@ -1,0 +1,7 @@
+{
+  "model": "yolo26s_6_rk3588_232_coco_fp16.rknn",
+  "tag": "RK3588_FP16",
+  "platform": "RK3588",
+  "test_mAP50": 0.6835761817102449,
+  "test_mAP50_95": 0.5252366481893496
+}

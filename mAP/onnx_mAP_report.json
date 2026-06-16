@@ -1,0 +1,7 @@
+{
+  "model": "yolov26s_6.onnx",
+  "tag": "FP32_ONNX",
+  "platform": "RK3588",
+  "test_mAP50": 0.6848483257107303,
+  "test_mAP50_95": 0.5261160002979206
+}
